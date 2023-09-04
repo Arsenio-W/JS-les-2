@@ -58,7 +58,8 @@ btw = 1.21
 helejasprijs = jasprijs * btw
 console.log('jasprijs plus btw: ', helejasprijs);
 
-type string = "Arsenio"
+let voornaam = "Arsenio"
+let achternaam = "Willems"
 //ik begrijp nog steeds niet hoe je een string gebruikt
 helenaam = voornaam + achternaam
 console.log('Mijn hele naam is: ',helenaam);
